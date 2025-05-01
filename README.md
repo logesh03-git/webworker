@@ -14,6 +14,7 @@ A simple React + Vite project demonstrating how to use Web Workers to calculate 
 - React
 - Web Workers
 - Vite
+- react-toastify
 
 ## 📦 How to Run
 
